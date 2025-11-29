@@ -1,14 +1,14 @@
 # sudoku-solver
 
-Διεπαφή επίλυσης Sudoku με Python και Tkinter.  
-Ο χρήστης μπορεί να εισάγει το δικό του Sudoku ή να επιλέξει έτοιμο puzzle διαφόρων δυσκολιών και να το λύσει αυτόματα.
+Sudoku solving interface using Python and Tkinter.
+The user can enter their own Sudoku or choose a ready-made puzzle of various difficulty levels and solve it automatically.
 
 ## Οδηγίες
-- Εκτέλεσε το `sudokusolver.py` με Python 3.
-- Απαιτείται η βιβλιοθήκη `tkinter` (περιλαμβάνεται στην Python).
+-Run sudokusolver.py with Python 3.
+-The tkinter library is required (it is included with Python).
 
 ## Περιεχόμενα
-- `sudokusolver.py`: Ο κώδικας της εφαρμογής.
-- `report/`: Περιέχει την ατομική αναφορά σε μορφή Word.
+-sudokusolver.py: The application’s source code.
+-report/: Τhe individual report in Word format.
 
 ## Εκτέλεση
